@@ -1,5 +1,5 @@
 # FS2 Reactive Button Demo
-This is the (very simple and tiny) code used to reactively render a button in my presentation: ["Streams - Your New Favorite Primitive"](https://slides.rpeters.dev/fs2-streams/) ([link to exact slide](https://slides.rpeters.dev/fs2-streams/index.html#/6/4)).
+This is the (very simple and tiny) code used to reactively render a button in my presentation: ["Streams - Your New Favorite Primitive"](https://slides.rpeters.dev/fs2-streams/) ([link to exact slide](https://slides.rpeters.dev/fs2-streams/index.html#/6/5)).
 No extra libraries were used except for FS2, which of course depends on the wonderful Cats Effect library, and ScalaJS-DOM.
 
 To try out yourself, run `sbt fastOptJS` and load `index.html` in your web browser.
